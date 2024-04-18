@@ -5,7 +5,7 @@ switz trip storage
 
 ~r~
 
-`import stuffed`
+`import pandas`
 >[!NOTE]
 >Hello Glenn!
 
