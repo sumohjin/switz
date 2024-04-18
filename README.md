@@ -12,3 +12,5 @@ switz trip storage
 ```python
 print('Hello World')
 ```
+
+Will be asked to write up switz itinerary soon! :D
