@@ -5,7 +5,7 @@ switz trip storage
 
 ~r~
 
-`import stuff`
+`import stuffed`
 >[!NOTE]
 >Hello Glenn!
 
